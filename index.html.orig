@@ -5,8 +5,11 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
+<<<<<<< HEAD
+  <title>Knight Bootstrap Template - Index</title>
+=======
   <title>Hollister Meadowhall - 30070</title>
-
+>>>>>>> 804b652726222f5c3ed7b2567310ea42135caf18
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -375,5 +378,8 @@
 
 </body>
 
+<<<<<<< HEAD
 </html>
-
+=======
+</html>
+>>>>>>> 804b652726222f5c3ed7b2567310ea42135caf18
