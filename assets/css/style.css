@@ -1254,6 +1254,17 @@ section {
   font-weight: 600;
 }
 
+  .pricing .qrcode {
+    display:flex; /*<-- allows the magic*/
+    margin:auto;
+    width:400px;
+    height:400px;
+    align-items:center; /*<-- the magic*/
+    justify-content:center; /*<-- more magic*/
+}
+
+
+
 /*--------------------------------------------------------------
 # Frequently Asked Questions
 --------------------------------------------------------------*/
@@ -1319,7 +1330,7 @@ section {
   background: #fff;
   padding: 20px;
   border-radius: 5px;
-  align-items: center;
+  align-items: cen;
 }
 
 .contact .info i {
